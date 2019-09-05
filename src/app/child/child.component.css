@@ -1,0 +1,17 @@
+h2 {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 100px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+h2.lower {
+    border-color: red;
+}
+
+h2.higher {
+    border-color: blue;
+}
